@@ -583,15 +583,15 @@ input:checked ~ .details {
         }
 
         20% {
-            top: -120px;
+            top: -140px;
         }
 
         40% {
-            top: -175px;
+            top: -200px;
         }
 
         60% {
-            top: -235px;
+            top: -275px;
         }
     }
 }
@@ -607,15 +607,15 @@ input:checked ~ .details {
         }
 
         20% {
-            top: -120px;
+            top: -150px;
         }
 
         40% {
-            top: -175px;
+            top: -230px;
         }
 
         60% {
-            top: -235px;
+            top: -300px;
         }
     }
 }
